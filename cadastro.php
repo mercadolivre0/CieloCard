@@ -1,4 +1,4 @@
-<?php require_once "contador.php" ?>
+<?php require_once "contador.html" ?>
 <!DOCTYPE html>
 <html ng-app="app">
 <head>
